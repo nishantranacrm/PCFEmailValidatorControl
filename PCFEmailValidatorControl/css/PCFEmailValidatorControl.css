@@ -1,0 +1,26 @@
+.InputText {
+    background: transparent;
+    border-style: none;
+    color: #000000;
+    font-size: 1.0rem;
+    font-weight: 600;
+    height: 2.5rem;
+    width: 100%;
+    outline: 0 !important;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+
+.InputTextFocused {
+    background: transparent;
+    border-width: 1px;
+    border-color: #000000;
+    color: #000000;
+    font-size: 1.0rem;
+    height: 2.5rem;
+    width: 95%;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    outline: 0 !important;
+}
